@@ -4,9 +4,8 @@
     "target_path": "device/google/shusky"
   },
   {
-    "repository": "crdroidandroid/proprietary_vendor_google_shiba",
+    "repository": "TheMuppets/proprietary_vendor_google_shiba",
     "target_path": "vendor/google/shiba",
-    "remote": "crdroid-gitlab",
-    "branch": "15.0"
+    "branch": "lineage-23.0"
   }
 ]
