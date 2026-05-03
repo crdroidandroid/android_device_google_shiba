@@ -6,6 +6,6 @@
   {
     "repository": "TheMuppets/proprietary_vendor_google_shiba",
     "target_path": "vendor/google/shiba",
-    "branch": "lineage-23.0"
+    "branch": "lineage-23.2"
   }
 ]
